@@ -1,3 +1,5 @@
+include ':bmiCalculator'
+include ':datingCalc'
 include ':javaPractice'
 include ':app'
 rootProject.name = "BeginningJava"
